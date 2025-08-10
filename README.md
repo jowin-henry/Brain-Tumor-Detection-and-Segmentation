@@ -7,6 +7,8 @@ This repository contains a Jupyter Notebook that demonstrates how **Artificial I
 
 ---
 
+
+
 ## 📌 Project Overview
 
 Medical imaging plays a critical role in early diagnosis and treatment planning. This project uses a dataset of brain MRI images to train a deep learning model capable of segmenting tumors.
@@ -19,10 +21,21 @@ The notebook includes:
 5. **Conclusions** – Insights into performance and possible improvements.
 
 ---
+## 📊 Project Workflow
+
+![Workflow](images/Overall workflow.png)
+
+---
+
+## 🧠 Tumor Segmentation Process
+
+![Seg](images/segm.png)
 
 ## 📂 Dataset
 
 * **Source:** [Kaggle — LGG MRI Segmentation Dataset](https://www.kaggle.com/mateuszbuda/lgg-mri-segmentation)
+* Below is a sample of the MRI images and corresponding segmentation masks:
+![MRI](images/dataset.png)
 * Contains T1-weighted contrast-enhanced brain MRI scans with tumor masks.
 
 ---
