@@ -23,7 +23,7 @@ The notebook includes:
 ---
 ## 📊 Project Workflow
 
-![Workflow](images/Overall workflow.png)
+![Workflow](images/workflow.png)
 
 ---
 
@@ -77,6 +77,7 @@ jupyter notebook Healthcare_AI.ipynb
 
 ## 📊 Results
 
+![Results](images/results.png)
 * Achieves accurate segmentation of tumor regions on MRI scans.
 * Visualizes predicted masks against ground truth for qualitative assessment.
 
